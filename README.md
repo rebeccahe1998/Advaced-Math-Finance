@@ -1,3 +1,3 @@
 # Advaced-Math-Finance
 
-[hw1](HW/HE REBECCA HW1.ipynb)
+[hw1](HW/HW1.ipynb)
