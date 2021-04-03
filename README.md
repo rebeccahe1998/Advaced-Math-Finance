@@ -17,4 +17,5 @@ In this homework, we covered the following topics: Binomail Tree Asian Option, B
 ## Homework 3
 
 Methods to reduce variance for Monte Carlo Simulation: Ultimate Stratification; Efficient portfolio
+
 [hw3](HW/HW3.ipynb)
